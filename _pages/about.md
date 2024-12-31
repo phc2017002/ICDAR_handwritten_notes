@@ -53,11 +53,11 @@ For any query contact aniket.pal@research.iiit.ac.in, sbiswas@cvc.uab.cat
 
 ## Organizers
 
-**Dr. Aniket Pal**, Postdoctoral researcher, CVIT Lab, IIIT Hydearabad
+**Dr. Aniket Pal**, Postdoctoral researcher, CVIT Lab, IIIT Hydearabad, India
 
 **Sanket Biswas**, PHD fellow, Computer Vision Center, Universitat Autònoma de Barcelona, Spain
 
-**Dr. Ajoy Mondal**, Postdoctoral researcher, CVIT Lab, IIIT Hydearabad
+**Dr. Ajoy Mondal**, Postdoctoral researcher, CVIT Lab, IIIT Hydearabad, India
 
 **Prof. Dimosthenis Karatzas**, Professor, Computer Vision Center, Universitat Autònoma de Barcelona, Spain
 
