@@ -26,24 +26,22 @@ In our competition the dataset will be given the question answers. The question 
 
 **Evidence-Based Grounding in Handwritten VQA**: This task involves developing a system to answer questions based on 3–4 pages of handwritten documents. It requires interpreting handwriting, understanding context, and providing evidence-based answers, ranging from specific extractions to contextually generated responses.
 
-**Open-Domain VQA on a Collection of Handwritten Notes**: In this task, the focus shifts to an open-domain setting within the science domain, where the system must handle a vast collection of handwritten notes on various scientific subjects.
+**Open-Domain VQA on a Collection of Handwritten Notes**: In this task, the focus shifts to an open-domain setting within the science domain, where the system must handle a vast collection of handwritten notes on various scientific subjects. The process involves retrieving relevant handwritten pages and using a generative model to interpret the content and produce accurate, query-based answers.
 
 
 
 
 ## Competition Updates
 
-**Registration Opens**: December 11th 00:00GMT, 2023 (submit to OpenReview - to be announced soon).
+**Registration Opens**: 5th January, 2025
 
-**Training Data Release**: December 17th 00:00GMT, 2023 (any modifications to your blog post, via a pull request on GitHub).
+**Registration Close**: 31st March, 2025
 
-**Test Data Release**: 20th March, 2025
+**Test Data Release**: 1st April, 2025
 
-**Registration Close**: 
+**Results Submission Deadline**: 15th April, 2025
 
-**Results Submission Deadline**:
-
-**Winner Announcement**
+**Winner Announcement**: 30th April, 2025
 
 
 
