@@ -1,34 +1,16 @@
----
-layout: about
-title: about
-permalink: /about/
-nav: true
-nav_order: 1
-subtitle:
-
-# profile:
-#   align: right
-#   image: 
-#   image_circular: false # crops the image to make it circular
-#   address: 
-
-# news: false  # includes a list of news items
-# selected_papers: false # includes a list of papers marked as "selected={true}"
-# social: false  # includes social icons at the bottom of the page
----
 
 
 
 ## Contents
 
-- [ICLR 2024 Blogposts Track](#iclr-2024-blogposts-track)
-- [Spotlight Posts](#spotlight)
-- [Accepted Posts](#accepted-posts)
+- [Introduction](#iclr-2024-blogposts-track)
+- [Challenge Description](#spotlight)
+- [Dataset details](#accepted-posts)
 - [Key Dates](#key-dates)
 - [Submissions](#submissions)
 - [Organizers](#organizers)
 
-# ICLR 2024 Blogposts Track
+# Introduction
 
 The Machine Learning community is currently experiencing a [reproducibility crisis](https://neuripsconf.medium.com/designing-the-reproducibility-program-for-neurips-2020-7fcccaa5c6ad) and a reviewing crisis [[Littman, 2021]](#Litt). Because of the highly competitive and noisy reviewing process of ML conferences [[Tran et al., 2020]](#Tran), researchers have an incentive to oversell their results, slowing down the progress and diminishing the integrity of the scientific community. Moreover with the growing number of papers published and submitted at the main ML conferences [[Lin et al., 2020]](#Lin), it has become more challenging to keep track of the latest advances in the field.
 
