@@ -37,8 +37,6 @@ In our competition the dataset will be given the question answers. The question 
 
 **Training Data Release**: December 17th 00:00GMT, 2023 (any modifications to your blog post, via a pull request on GitHub).
 
-**Updated Training Data**: ~~January 30th, 2024~~ UPDATED: February 15th, 2024
-
 **Test Data Release**: 20th March, 2025
 
 **Registration Close**: 
@@ -47,11 +45,7 @@ In our competition the dataset will be given the question answers. The question 
 
 **Winner Announcement**
 
-## A call for blog posts discussing work previously published at ICLR
 
-#### Content 
-
-Write a post on a subject that has been published at a top-tier venue (ICLR, ICML, NeurIPS, AAAI, UAI, CVPR, SIGGRAPH, ECCV, ICCV, etc.) relatively recently. 
 
 #### Conflict of interest
 
