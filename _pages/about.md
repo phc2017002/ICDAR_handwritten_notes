@@ -68,8 +68,8 @@ For any query contact aniket.pal@research.iiit.ac.in, sbiswas@cvc.uab.cat
 
 ## References
 
-<a name="Litt">Michael L Littman. Collusion rings threaten the integrity of computer science research. Communications of the ACM, 2021.</a>
+<a name="Litt">Jimeno Yepes, Antonio and Zhong, Peter and Burdick, Douglas. ICDAR 2021 competition on scientific literature parsing.</a>
 
-<a name="Tran">David Tran, Alex Valtchanov, Keshav Ganapathy, Raymond Feng, Eric Slud, Micah Goldblum, and Tom Goldstein. An open review of OpenReview: A critical analysis of the machine learning conference review process. arXiv, 2020. </a>
+<a name="Litt">Mondal, Ajoy and Mahadevan, Vijay and Manmatha, R and Jawahar, CV. ICDAR 2024 Competition on Recognition and VQA on Handwritten Documents </a>
 
 
