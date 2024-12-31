@@ -47,9 +47,7 @@ In our competition the dataset will be given the question answers. The question 
 
 ## Contact
 
-For any technical issues with the blog post repository (for example, blog posts not displaying correctly or issues while following the [submission instructions](https://iclr-blogposts.github.io/2024/submitting/#creating-a-blog-post)), please open an [issue in our github repository](https://github.com/iclr-blogposts/2024/issues).
-
-For other inquiries, reach us via email at: [blog.track.chairs@gmail.com](mailto:blog.track.chairs@gmail.com)
+For any query contact aniket.pal@research.iiit.ac.in, sbiswas@cvc.uab.cat
 
 ## Organizers
 
