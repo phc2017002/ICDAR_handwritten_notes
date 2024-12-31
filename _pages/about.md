@@ -20,96 +20,32 @@ This competition will also present new performance measuring benchmarks like NDC
 
 Overall, this competition will catalyze practical applications in the handwritten domain, such as automated evaluation of handwritten exam responses and bridging academic and industrial needs. We aim to set a new standard for understanding handwritten documents and drive impactful advancements in the DAR landscape by fostering community engagement through robust benchmarks and reproducible platforms.
 
-## A Blog Post Conference Track
+## Competition Details
 
-Last year, we ran the **second** iteration of the [Blogpost track](https://iclr-blogposts.github.io/2023/about) at ICLR 2023!
+In our competition the dataset will be given the question answers. The question answers span over 2000 Handwritten notes from different scientific fields like mathematics, physics, chemistry, computer science and engineering. The task is divide into two parts. One is Evidence based grounding and another one is open domain VQA on a collection of Handwritten Notes.
 
-It was very successful, with accepted posts presented in person at the main conference.
+**Evidence-Based Grounding in Handwritten VQA**: This task involves developing a system to answer questions based on 3–4 pages of handwritten documents. It requires interpreting handwriting, understanding context, and providing evidence-based answers, ranging from specific extractions to contextually generated responses.
 
-Our goal is to create a formal call for blog posts at ICLR to incentivize and reward researchers to review past work and summarize the outcomes, develop new intuitions, or highlight some shortcomings. A very influential initiative of this kind happened after the Second World War in France. Because of the lack of up-to-date textbooks, a collective of mathematicians under the pseudonym Nicolas Bourbaki [[Halmos 1957]](#Halm), decided to start a series of textbooks about the foundations of mathematics [[Bourbaki, 1939]](#Bour). In the same vein, we aim to provide a new way to summarize scientific knowledge in the ML community.
-
-Due to the large diversity of topics that can be discussed in a blog post, we decided to restrict the range of topics for this call for blog posts. We identified that the blog posts that would bring to most value to the community and the conference would be posts that distill and discuss *previously published papers*.
-
-## Spotlight
-
-**[The N Implementation Details of RLHF with PPO]({% post_url 2024-05-07-the-n-implementation-details-of-rlhf-with-ppo %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Shengyi Costa Huang, Tianlin Liu, Leandro von Werra_
-
-**[How to compute Hessian-vector products?]({% post_url 2024-05-07-bench-hvp %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Mathieu Dagréou, Pierre Ablin, Samuel Vaiter, Thomas Moreau_
-
-**[Bridging the Data Processing Inequality and Function-Space Variational Inference]({% post_url 2024-05-07-dpi-fsvi %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Andreas Kirsch_
-
-## Accepted Posts
-
-**[Understanding in-context learning in transformers]({% post_url 2024-05-07-understanding-icl %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Simone Rossi, Rui Yuan, Thomas Hannagan_
-
-**[Behavioral Differences in Mode-Switching Exploration for Reinforcement Learning]({% post_url 2024-05-07-mode-switching %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Loren J Anderson_
-
-**[Fairness in AI: two philosophies or just one?]({% post_url 2024-05-07-fairness-ai-two-phil-or-just-one %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _MaryBeth Defrance_
-
-**[Towards Robust Foundation Models: Adversarial Contrastive Learning]({% post_url 2024-05-07-robust-foundation-model %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Jingfeng Zhang, Xilie Xu_
-
-**[A New Alchemy&#58; Language Model Development as a Subfield?]({% post_url 2024-05-07-language-model-development-as-a-new-subfield %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Colin Raffel_
-
-**[Understanding gradient inversion attacks from the prior knowledge perspective]({% post_url 2024-05-07-understanding-gradient-inversion-attacks-from-the-prior-knowledge-perspective %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Yanbo Wang, Jian Liang, Ran He_
-
-**[Building Diffusion Model's theory from ground up]({% post_url 2024-05-07-diffusion-theory-from-scratch %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Ayan Das_
-
-**[Masked Language Model with ALiBi and CLAP head]({% post_url 2024-05-07-alibi-mlm %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Jason Chuan-Chih Chou_
-
-**[What exactly has TabPFN learned to do?]({% post_url 2024-05-07-what-exactly-has-tabpfn-learned-to-do %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Calvin McCarter_
-
-**[Elaborating on the Value of Flow Matching for Density Estimation]({% post_url 2024-05-07-elaborating-on-the-value-of-flow-matching-for-density-estimation %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Maternus Herold, Faried Abu Zaid_
-
-**[The Hidden Convex Optimization Landscape of Two-Layer ReLU Networks]({% post_url 2024-05-07-hidden-convex-relu %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Victor Mercklé, Franck Iutzeler, Ievgen Redko_
-
-**[Deep Equilibrium Models For Algorithmic Reasoning]({% post_url 2024-05-07-deqalg-reasoning %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Sophie Xhonneux, Yu He, Andreea Deac, Jian Tang, Gauthier Gidel_
-
-**[Fair Model-Based Reinforcement Learning Comparisons with Explicit and Consistent Update Frequency]({% post_url 2024-05-07-update-frequency-in-mbrl %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Albert Thomas, Abdelhakim Benechehab, Giuseppe Paolo, Balázs Kégl_
-
-**[Exploring Meta-learned Curiosity Algorithms]({% post_url 2024-05-07-exploring-meta-learned-curiosity-algorithms %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Batsirayi Mupamhi Ziki_
-
-**[Unraveling The Impact of Training Samples]({% post_url 2024-05-07-unraveling-the-impact-of-training-samples %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Daiwei Chen, Jane Zhang, Ramya Korlakai Vinayak_
-
-**[RLHF without RL - Direct Preference Optimization]({% post_url 2024-05-07-rlhf-without-rl %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Michael Panchenko_
-
-**[It's Time to Move On: Primacy Bias and Why It Helps to Forget]({% post_url 2024-05-07-primacy-bias-and-why-it-helps-to-forget %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Matthew Kielo, Vladimir Lukin_
-
-**[Double Descent Demystified]({% post_url 2024-05-07-double-descent-demystified %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Rylan Schaeffer, Zachary Robertson, Akhilan Boopathy, Mikail Khona, Kateryna Pistunova, Jason W. Rocks, Ila R. Fiete, Andrey Gromov, Sanmi Koyejo_
-
-**[On Bayesian Model Selection: The Marginal Likelihood, Cross-Validation, and Conditional Log Marginal Likelihood]({% post_url 2024-05-07-clml %})**
-: &nbsp;&nbsp;&nbsp;&nbsp; _Andreas Kirsch_
+**Open-Domain VQA on a Collection of Handwritten Notes**: In this task, the focus shifts to an open-domain setting within the science domain, where the system must handle a vast collection of handwritten notes on various scientific subjects.
 
 
-## Key Dates
 
-**Abstract deadline**: December 11th 00:00GMT, 2023 (submit to OpenReview - to be announced soon).
 
-**Submission deadline**: December 17th 00:00GMT, 2023 (any modifications to your blog post, via a pull request on GitHub).
+## Competition Updates
 
-**Decision Notification**: ~~January 30th, 2024~~ UPDATED: February 15th, 2024
+**Registration Opens**: December 11th 00:00GMT, 2023 (submit to OpenReview - to be announced soon).
 
-**Camera-ready merge**: March 15th, 2024
+**Training Data Release**: December 17th 00:00GMT, 2023 (any modifications to your blog post, via a pull request on GitHub).
+
+**Updated Training Data**: ~~January 30th, 2024~~ UPDATED: February 15th, 2024
+
+**Test Data Release**: 20th March, 2025
+
+**Registration Close**: 
+
+**Results Submission Deadline**:
+
+**Winner Announcement**
 
 ## A call for blog posts discussing work previously published at ICLR
 
