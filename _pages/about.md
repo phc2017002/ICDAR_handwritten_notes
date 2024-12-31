@@ -17,9 +17,7 @@ subtitle:
 # social: false  # includes social icons at the bottom of the page
 ---
 
-**Announcements**: 
-- The 22 blog posts 2024 are now published! Check our [press release](https://blog.iclr.cc/2024/04/02/blogposts-track-iclr-2023-announcing-accepted-blogposts/) for an overview or dive directly into it on the [Blog page](https://iclr-blogposts.github.io/2024/blog/index.html)
-- More information regarding the poster session will be available soon.
+
 
 ## Contents
 
