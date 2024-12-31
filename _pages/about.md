@@ -12,7 +12,9 @@
 
 # Introduction
 
-ield, we present this ICDAR Handwritten Notes Understanding competition, in which the model needs to answer the framed questions that span over 2000 handwritten note samples—composed of multipage handwritten exam notes from competitive exams in India, such as IIT-JEE, GATE, and various science disciplines. Spanning subjects like computer science, mathematics, physics, chemistry, and engineering. 
+The field of Document Analysis and Recognition (DAR) has made remarkable strides in recent years, driven by the integration of Natural Language Processing (NLP) and Computer Vision (CV) techniques. These advancements have enabled holistic Document Understanding (DU) for Visually Rich Documents (VRDs), which require the seamless fusion of textual, visual, and layout information. Despite these achievements, the domain of handwritten document understanding remains a persistent challenge, especially for complex layouts and diverse content types.
+
+To increase research in this field, we present this ICDAR Handwritten Notes Understanding competition, in which the model needs to answer the framed questions that span over 2000 handwritten note samples—composed of multipage handwritten exam notes from competitive exams in India, such as IIT-JEE, GATE, and various science disciplines. Spanning subjects like computer science, mathematics, physics, chemistry, and engineering. 
 
 This competition will also present new performance measuring benchmarks like NDCG@5, Recall@K, and MRR alongside standard ANLS and Accuracy to assess transcription precision, ranking, and relevance. By bridging layout analysis, HTR, and question answering, this challenge aims to advance state-of-the-art methodologies in document AI, fostering innovation in handling complex, context-sensitive retrieval tasks. Furthermore, it aligns with the goals of ICDAR by promoting research that tackles real-world complexities, such as low-resource settings, multi-topic domains, and multipage reasoning.
 
