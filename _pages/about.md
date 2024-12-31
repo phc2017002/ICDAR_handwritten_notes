@@ -52,10 +52,15 @@ For any query contact aniket.pal@research.iiit.ac.in, sbiswas@cvc.uab.cat
 ## Organizers
 
 **Dr. Aniket Pal**
+
 **Sanket Biswas**
+
 **Dr. Ajoy Mondal**
+
 **Prof. Dimosthenis Karatzas**
+
 **Prof. Josep Lladós**
+
 **Prof. C.V. Jawahar**
 
 
