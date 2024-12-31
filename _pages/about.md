@@ -29,6 +29,8 @@ In our competition the dataset will be given the question answers. The question 
 **Open-Domain VQA on a Collection of Handwritten Notes**: In this task, the focus shifts to an open-domain setting within the science domain, where the system must handle a vast collection of handwritten notes on various scientific subjects. The process involves retrieving relevant handwritten pages and using a generative model to interpret the content and produce accurate, query-based answers.
 
 
+**Examples are coming soon**
+
 
 
 ## Competition Updates
@@ -51,17 +53,17 @@ For any query contact aniket.pal@research.iiit.ac.in, sbiswas@cvc.uab.cat
 
 ## Organizers
 
-**Dr. Aniket Pal**
+**Dr. Aniket Pal**, Postdoctoral researcher, CVIT Lab, IIIT Hydearabad
 
-**Sanket Biswas**
+**Sanket Biswas**, PHD fellow, Computer Vision Center, Universitat Autònoma de Barcelona, Spain
 
-**Dr. Ajoy Mondal**
+**Dr. Ajoy Mondal**, Postdoctoral researcher, CVIT Lab, IIIT Hydearabad
 
-**Prof. Dimosthenis Karatzas**
+**Prof. Dimosthenis Karatzas**, Professor, Computer Vision Center, Universitat Autònoma de Barcelona, Spain
 
-**Prof. Josep Lladós**
+**Prof. Josep Lladós**, Professor, Computer Vision Center, Universitat Autònoma de Barcelona, Spain
 
-**Prof. C.V. Jawahar**
+**Prof. C.V. Jawahar**, Professor, CVIT Lab, IIIT Hydearabad
 
 
 ## References
