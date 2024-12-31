@@ -45,33 +45,6 @@ In our competition the dataset will be given the question answers. The question 
 
 
 
-#### Conflict of interest
-
-The authors of the blog posts will have to declare their conflicts of interest (positive or negative) with the paper (and the paper's authors) they write about. Conflicts of interest include:
--   Recent collaborators (less than 3 years)
--   Current institution ​ Reviewers will be asked to judge if the submission is sufficiently critical and objective of the papers addressed in the blog post.  
--  **Blog Posts must not be used to highlight or advertise past publications of the **authors or their lab****.
-
-We will only ask the authors to report if they have a conflict of interest. If so, reviewers will be asked to judge if the submission is sufficiently critical and objective of the papers addressed in the blog post. 
-
-
-## Publication 
-
-#### Blog post
-
-The posts will be created and published under a unified template; see [the submission instructions]({{ '/submitting' | relative_url }}) and the [sample post]({% post_url 2024-05-07-distill-example %}) hosted on the blog of this website.
-
-#### Poster
-Additionally, accepted posts will have the option to present their work as a poster during the main poster session. For more information about the main poster session (time, poster format, etc.) please refer to the ICLR homepage.
-
-## Submissions
-
-Our goal is to avoid heavily engineered, professionally-made blog posts ---Such as the “100+ hours” mentioned as a standard by the [Distill guidelines](https://distill.pub/journal/)---to entice ideas and clear writing rather than dynamic visualizations or embedded javascript engines.
-Please check our [submission instructions]({{ '/submitting' | relative_url }}) for more details.
-We accept submissions in both Markdown and HTML. We believe this is a good trade-off between complexity and flexibility. 
-
-**Submit** your blogpost on [Openreview](https://openreview.net/group?id=ICLR.cc/2024/BlogPosts&referrer=%5BHomepage%5D(%2F))
-
 ## Contact
 
 For any technical issues with the blog post repository (for example, blog posts not displaying correctly or issues while following the [submission instructions](https://iclr-blogposts.github.io/2024/submitting/#creating-a-blog-post)), please open an [issue in our github repository](https://github.com/iclr-blogposts/2024/issues).
